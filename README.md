@@ -1,2 +1,5 @@
-# spring-boot-backend-crud
-Spring Boot Java Backend CRUD JPA PostgreSQL example with Maven 
+# Spring Boot JPA PostgreSQL example with Maven
+```
+mvn spring-boot:run
+```
+

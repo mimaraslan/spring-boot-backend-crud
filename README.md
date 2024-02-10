@@ -1,4 +1,8 @@
-# Spring Boot JPA PostgreSQL example with Maven
+# Spring Boot CRUD 
+## JPA PostgreSQL example with Maven
+
+JPA, Lombok, RDBMS 
+
 ```
 mvn spring-boot:run
 ```

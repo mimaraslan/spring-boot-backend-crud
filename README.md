@@ -3,6 +3,8 @@
 mvn spring-boot:run
 ```
 
+![Spring Boot Java](src/main/resources/static/images/08.jpg)
+
 ![Spring Boot Java](src/main/resources/static/images/00.jpg)
 
 ![Spring Boot Java](src/main/resources/static/images/01.jpg)
@@ -19,6 +21,4 @@ mvn spring-boot:run
 
 ![Spring Boot Java](src/main/resources/static/images/07.jpg)
 
-![Spring Boot Java](src/main/resources/static/images/08.jpg)
 
-![Spring Boot Java](src/main/resources/static/images/09.jpg)

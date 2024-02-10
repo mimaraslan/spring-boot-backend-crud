@@ -29,4 +29,5 @@ public class Client {
     this.lastName = lastName;
     this.confirmed = confirmed;
   }
+
 }

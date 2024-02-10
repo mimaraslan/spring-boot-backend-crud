@@ -1,6 +1,5 @@
 package com.mimaraslan.service;
 
-
 import com.mimaraslan.model.Client;
 import com.mimaraslan.repository.ClientRepository;
 import lombok.RequiredArgsConstructor;

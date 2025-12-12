@@ -26,3 +26,8 @@ mvn spring-boot:run
 ![Spring Boot Java](src/main/resources/static/images/07.jpg)
 
 
+# Angular CRUD for Spring Boot CRUD 
+https://github.com/mimaraslan/angular-frontend-crud
+
+
+
